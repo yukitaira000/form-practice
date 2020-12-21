@@ -176,7 +176,7 @@ input, select, button {
   display: inline-block;
   border: 1px solid #d9d9d9;
   border-radius: 3px;
-  box-sizing: 13px;
+  box-sizing: border-box;
   font-size: 13px;
   font-weight: 500;
   text-align: center;
